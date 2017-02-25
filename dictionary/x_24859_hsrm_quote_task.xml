@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Quote Task" max_length="40" name="x_24859_hsrm_quote_task" sizeclass="1" type="collection">
+        <element label="Quote" max_length="32" name="quote" reference="x_24859_hsrm_quote" type="reference"/>
+        <element label="Quote Request" max_length="32" name="quote_request" reference="x_24859_hsrm_quote_request" type="reference"/>
+    </element>
+</database>

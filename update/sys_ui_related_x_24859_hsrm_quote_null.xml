@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_related sys_domain="global" table="x_24859_hsrm_quote" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Quote - Default view" name="x_24859_hsrm_quote" related_list="NULL" sys_domain="global" view="Default view">4b872e0bdba03200a0b2d100cf96191a</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>x_24859_hsrm_quote_task.quote</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-30 22:27:53</sys_created_on>
+            <sys_id>cf872e0bdba03200a0b2d100cf96191a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-30 22:27:53</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Quote - Default view</calculated_name>
+            <filter/>
+            <name>x_24859_hsrm_quote</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-30 22:27:53</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4b872e0bdba03200a0b2d100cf96191a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Quote - Default view</sys_name>
+            <sys_package display_value="Sales &amp; Renewal" source="x_24859_hsrm">865ac283db203200a0b2d100cf96199c</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Sales &amp; Renewal">865ac283db203200a0b2d100cf96199c</sys_scope>
+            <sys_update_name>sys_ui_related_x_24859_hsrm_quote_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-30 22:27:53</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

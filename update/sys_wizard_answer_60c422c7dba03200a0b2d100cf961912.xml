@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Quote Task</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Quote Task</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">223e5972db132200a0b2d100cf961981</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-01-30 22:15:42</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>60c422c7dba03200a0b2d100cf961912</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Quote Task</sys_name>
+        <sys_package display_value="Sales &amp; Renewal" source="x_24859_hsrm">865ac283db203200a0b2d100cf96199c</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Sales &amp; Renewal">865ac283db203200a0b2d100cf96199c</sys_scope>
+        <sys_update_name>sys_wizard_answer_60c422c7dba03200a0b2d100cf961912</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-01-30 22:15:42</sys_updated_on>
+        <table/>
+        <target_url>x_24859_hsrm_quote_task.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

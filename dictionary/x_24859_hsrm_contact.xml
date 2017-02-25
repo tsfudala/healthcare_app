@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_user" label="Contact" max_length="40" name="x_24859_hsrm_contact" type="collection">
+        <element label="Account" max_length="32" name="account" reference="x_24859_hsrm_account" type="reference"/>
+        <index name="index">
+            <element name="account"/>
+        </index>
+    </element>
+</database>

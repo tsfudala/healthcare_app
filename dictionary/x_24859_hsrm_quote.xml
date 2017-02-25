@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Quote" max_length="40" name="x_24859_hsrm_quote" sizeclass="1" type="collection">
+        <element label="Account" max_length="32" name="account" reference="x_24859_hsrm_account" type="reference"/>
+        <element label="Broker" max_length="32" name="broker" reference="x_24859_hsrm_contact" type="reference"/>
+    </element>
+</database>

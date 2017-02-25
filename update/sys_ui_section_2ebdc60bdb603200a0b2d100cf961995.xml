@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Company" section_id="2ebdc60bdb603200a0b2d100cf961995" sys_domain="global" table="x_24859_hsrm_account" version="3" view="Sys_popup,vendor">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-30 20:35:04</sys_created_on>
+            <sys_id>a6bdc60bdb603200a0b2d100cf961996</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Company" display_value="Company" name="x_24859_hsrm_account" sys_domain="global" view="31cd1932db132200a0b2d100cf9619af">2ebdc60bdb603200a0b2d100cf961995</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-30 20:35:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-30 20:35:04</sys_created_on>
+            <sys_id>2abdc60bdb603200a0b2d100cf961996</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Company" display_value="Company" name="x_24859_hsrm_account" sys_domain="global" view="31cd1932db132200a0b2d100cf9619af">2ebdc60bdb603200a0b2d100cf961995</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-30 20:35:04</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>phone</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-30 20:35:04</sys_created_on>
+            <sys_id>aabdc60bdb603200a0b2d100cf961996</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Company" display_value="Company" name="x_24859_hsrm_account" sys_domain="global" view="31cd1932db132200a0b2d100cf9619af">2ebdc60bdb603200a0b2d100cf961995</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-30 20:35:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vendor_manager</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-30 20:35:04</sys_created_on>
+            <sys_id>2ebdc60bdb603200a0b2d100cf961996</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Company" display_value="Company" name="x_24859_hsrm_account" sys_domain="global" view="31cd1932db132200a0b2d100cf9619af">2ebdc60bdb603200a0b2d100cf961995</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-30 20:35:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vendor_type</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-30 20:35:04</sys_created_on>
+            <sys_id>aebdc60bdb603200a0b2d100cf961996</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Company" display_value="Company" name="x_24859_hsrm_account" sys_domain="global" view="31cd1932db132200a0b2d100cf9619af">2ebdc60bdb603200a0b2d100cf961995</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-30 20:35:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-30 20:35:04</sys_created_on>
+            <sys_id>22bdc60bdb603200a0b2d100cf961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Company" display_value="Company" name="x_24859_hsrm_account" sys_domain="global" view="31cd1932db132200a0b2d100cf9619af">2ebdc60bdb603200a0b2d100cf961995</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-30 20:35:04</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>fax_phone</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-30 20:35:04</sys_created_on>
+            <sys_id>a2bdc60bdb603200a0b2d100cf961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Company" display_value="Company" name="x_24859_hsrm_account" sys_domain="global" view="31cd1932db132200a0b2d100cf9619af">2ebdc60bdb603200a0b2d100cf961995</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-30 20:35:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vendor</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-30 20:35:04</sys_created_on>
+            <sys_id>26bdc60bdb603200a0b2d100cf961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Company" display_value="Company" name="x_24859_hsrm_account" sys_domain="global" view="31cd1932db132200a0b2d100cf9619af">2ebdc60bdb603200a0b2d100cf961995</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-30 20:35:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>manufacturer</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-30 20:35:04</sys_created_on>
+            <sys_id>a6bdc60bdb603200a0b2d100cf961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Company" display_value="Company" name="x_24859_hsrm_account" sys_domain="global" view="31cd1932db132200a0b2d100cf9619af">2ebdc60bdb603200a0b2d100cf961995</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-30 20:35:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-30 20:35:04</sys_created_on>
+            <sys_id>2abdc60bdb603200a0b2d100cf961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Company" display_value="Company" name="x_24859_hsrm_account" sys_domain="global" view="31cd1932db132200a0b2d100cf9619af">2ebdc60bdb603200a0b2d100cf961995</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-30 20:35:04</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>notes</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-30 20:35:04</sys_created_on>
+            <sys_id>aabdc60bdb603200a0b2d100cf961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Company" display_value="Company" name="x_24859_hsrm_account" sys_domain="global" view="31cd1932db132200a0b2d100cf9619af">2ebdc60bdb603200a0b2d100cf961995</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-30 20:35:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Company</caption>
+            <header>false</header>
+            <name>x_24859_hsrm_account</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-30 20:35:04</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2ebdc60bdb603200a0b2d100cf961995</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Company</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Sales &amp; Renewal" source="x_24859_hsrm">865ac283db203200a0b2d100cf96199c</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Sales &amp; Renewal">865ac283db203200a0b2d100cf96199c</sys_scope>
+            <sys_update_name>sys_ui_section_2ebdc60bdb603200a0b2d100cf961995</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-01-30 20:35:04</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Sys_popup,vendor" name="Sys_popup,vendor">31cd1932db132200a0b2d100cf9619af</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
